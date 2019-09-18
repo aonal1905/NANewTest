@@ -3,7 +3,7 @@ public class Gittest3 {
         System.out.println("hello world");
         System.out.println("this is ahmet onal");
         System.out.println("yay");
-        System.out.println("hey");
+
 
     }
 }
